@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dghost32
-- 👀 I’m interested in FrontEnd Development & UI/UX design
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning Software Architecture
 - 📫 How to reach me https://wa.me/+573209503168
 
 <!---
