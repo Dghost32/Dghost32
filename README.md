@@ -47,3 +47,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+📊 Stats
+
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dghost32&theme=tokyonight)
