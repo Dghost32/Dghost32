@@ -58,10 +58,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dghost32&theme=tokyonight" alt="dghost32" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dghost32&theme=tokyonight" alt="GitHub Summary"/>
 </p>
 
